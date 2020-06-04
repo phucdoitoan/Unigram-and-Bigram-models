@@ -1,0 +1,8 @@
+
+6/8:
+2 page A-4 report - mimic a paper (related works, problem, model, evaluation, dataset)
+
+
+1000 sentences : dataset (at least)
+
+1 intro, 2 related work (opt), 3 method, 4 evaluation, 5 conclusion
